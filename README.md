@@ -68,8 +68,7 @@ I will be packed into a canned sardines.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cerealtwist&show_icons=true&theme=tokyonight&title_color=1a6bbd&icon_color=1a6bbd&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerealtwist&layout=compact&theme=tokyonight&title_color=1a6bbd&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" />
+<img src="https://github.com/cerealtwist/cerealtwist/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 </div>
 
