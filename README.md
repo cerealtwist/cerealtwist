@@ -67,6 +67,6 @@ I will be packed into a canned sardines.
 ## My Status (This was made to judge my productivity)
 
 <div align="center">
-![GitHub Metrics](https://github.com/cerealtwist/cerealtwist/raw/main/github-metrics.svg)
+<img src="https://github.com/cerealtwist/cerealtwist/raw/main/github-metrics.svg" width="100%">
 </div>
 </div>
