@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <!-- Typing Animation -->
 <a href="https://github.com/cerealtwist">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1a6bbd&center=true&vCenter=true&width=600&lines=Cerealtwist;Um...+About+Me..;Data+Science+%7C+Urban+Analytics+%7C+Machine+Learning;Data+Science+Student+%40+Telkom+University" alt="Typing SVG" />
@@ -21,9 +19,13 @@
 
 ## About Me
 <div align="center">
-**I will be packed into a canned sardines. **
+**I will be packed into a canned sardines.**
 
 ![Sardiens...](https://png.pngtree.com/png-vector/20250620/ourmid/pngtree-delicious-sardines-in-golden-can-open-top-png-image_16554010.png)
+
+Nah not really, but currently I'm into Urban & Transportation Analytics, Supply Chain Analytics, Natural Language Processing and Web Development.
+<br>
+I do design too, you can check out my Portfolio in Behance (Check my badge for link)
 </div>
 
 
@@ -60,6 +62,18 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Geospatial & Urban Analytics**
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=flat-square&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+
+**Design & Creative**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FDB134?style=flat-square&logo=zeplin&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 </div>
 
