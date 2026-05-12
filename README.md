@@ -21,7 +21,7 @@
 
 ## About Me
 <div align="center">
-I will be packed into a canned sardines. 
+**I will be packed into a canned sardines. **
 
 ![Sardiens...](https://png.pngtree.com/png-vector/20250620/ourmid/pngtree-delicious-sardines-in-golden-can-open-top-png-image_16554010.png)
 </div>
