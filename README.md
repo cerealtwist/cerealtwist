@@ -20,12 +20,12 @@
 ---
 
 ## About Me
-
+<div align="center">
 I will be packed into a canned sardines. 
 
-![I have](https://png.pngtree.com/png-clipart/20250417/original/pngtree-sardine-fish-isolated-on-transparent-background-png-image_20716769.png)
+![Sardiens...](https://png.pngtree.com/png-vector/20250620/ourmid/pngtree-delicious-sardines-in-golden-can-open-top-png-image_16554010.png)
+</div>
 
----
 
 ## What am I able to do... Trust me...
 
@@ -64,13 +64,9 @@ I will be packed into a canned sardines.
 </div>
 
 ---
-## GitHub Stats
+## My Status (This was made to judge my productivity)
 
 <div align="center">
-
-<img src="https://github.com/cerealtwist/cerealtwist/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-
+![GitHub Metrics](https://github.com/cerealtwist/cerealtwist/raw/main/github-metrics.svg)
 </div>
-
-
 </div>
